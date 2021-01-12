@@ -1311,6 +1311,7 @@ pre code {
   .col-lg-8 {
     flex: 0 0 66.6666666667%;
     max-width: 66.6666666667%;
+    margin-top: 50px;
   }
 
   .col-lg-9 {
@@ -7478,7 +7479,7 @@ button.bg-dark:focus {
 
 .mt-0,
 .my-0 {
-  margin-top: 30px !important;
+  margin-top: 50px !important;
 }
 
 .mr-0,
