@@ -392,14 +392,14 @@ h6, .h6 {
 
 .header-pic-left {
   z-index: 1;
-  width: 300px;
+  width: 350px;
   position: absolute;
   left: 200px;
 }
 
 .header-pic-right {
   z-index: 1;
-  width: 300px;
+  width: 350px;
   position: absolute;
   right: 200px;
 }
