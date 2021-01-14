@@ -391,13 +391,13 @@ h6, .h6 {
 }
 
 .header-pic-left {
-  width: 100%;
+  width: 50%;
   position: absolute;
   left: 200px;
 }
 
 .header-pic-right {
-  width: 100%;
+  width: 50%%;
   position: absolute;
   right: 200px;
 }
