@@ -391,15 +391,15 @@ h6, .h6 {
 }
 
 .header-pic-left {
-  width: 30%;
+  width: 15%;
   position: relative;
-  left: 50px;
+  left: 10px;
 }
 
 .header-pic-right {
   width: 30%;
   position: relative;
-  right: 50px;
+  right: 10px;
 }
 
 .lead {
